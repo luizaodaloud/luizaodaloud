@@ -1,5 +1,5 @@
 
-- 👋 Hi, I’m @luizaodaloud
+- 👋 Hi, I’m **@luizaodaloud**
 - Meu email de contato é luiz.lara.borges@escola.pr.gov.br
 - Eu estou interessado em aprender a programar novas linguas
 - Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
